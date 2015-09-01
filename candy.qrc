@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/candy.qss</file>
+        <file>images/background.png</file>
+        <file>images/button-hover.png</file>
+        <file>images/button-pressed.png</file>
+        <file>images/down-arrow.png</file>
+        <file>images/button-start.png</file>
+        <file>images/button.png</file>
+        <file>images/right.png</file>
+        <file>images/wrong.png</file>
+        <file>images/heart.png</file>
+        <file>BECWords.txt</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+    </qresource>
+</RCC>
